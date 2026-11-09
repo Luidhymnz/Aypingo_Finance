@@ -36,21 +36,8 @@ As tecnologias previstas para o desenvolvimento incluem:
 A estrutura será organizada conforme o desenvolvimento da aplicação.
 
 ```text
-AYPINGO_FINANCE/
-│
-├── src/
-│   ├── main.py
-│   ├── database/
-│   ├── models/
-│   └── services/
-│
-├── tests/
-│
-├── docs/
-│
-├── .gitignore
-├── requirements.txt
-└── README.md
+Ainda será estruturada de forma onde apresenta organização e ordem para ser seguida. Trazendo conforto e acessibilidade para quem visualizar.
+ 
 ```
 
 ## 📈 Desenvolvimento
