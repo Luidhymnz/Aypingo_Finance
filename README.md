@@ -18,6 +18,7 @@ As tecnologias previstas para o desenvolvimento incluem:
 - **SQL** — consultas e manipulação de dados.
 - **Banco de dados** — armazenamento e gerenciamento das informações.
 - **Inteligência Artificial** — integração futura para análises e recomendações financeiras.
+- **Figma** - Criação dos avatares e layout do app.
 
 ## 🚀 Funcionalidades planejadas
 
